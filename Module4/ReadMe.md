@@ -4,8 +4,6 @@ Data source: https://data.gov.in/resources/number-secondary-and-senior-secondary
 
 > ds200_plots.py: Code to generate the visualizations
 
-> Number_of_Schools-Secondary_School.csv: File containing the data from the above mentioned source
-
 > Senior Secondary schools trend across years.png:  This plot shows the trend of number of senior secondary schools in India from 2001 to 2010. The rate of increase in the number of secondary schools has been nearly constant from 2001 to 2010. This plot shows a near linear trend.
 
 > Lower Secondary schools trend across years.png: This plot shows the trend of number of lower secondary schools in India from 2001 to 2010. The rate of increase in the number of lower secondary schools has been nearly constant from 2001 to 2010. This plot shows a near linear trend.
